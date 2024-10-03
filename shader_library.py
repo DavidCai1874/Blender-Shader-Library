@@ -1,5 +1,5 @@
 bl_info = {
-    "name":"Object Adder",
+    "name":"Shader Library",
     "author":"David Cai",
     "version":(1,0),
     "blender":(4,1,1),
