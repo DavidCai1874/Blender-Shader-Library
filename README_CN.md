@@ -15,8 +15,5 @@
 
 # 插件面板与材质们
 
-![the panel](https://github.com/user-attachments/assets/434c2eda-52eb-4c97-a4bb-a22938168cdb) 
-![eevee](https://github.com/user-attachments/assets/9e85e3e1-8943-47be-a0af-364398d7153d)
-
-
+![the panel](https://github.com/user-attachments/assets/434c2eda-52eb-4c97-a4bb-a22938168cdb) <img src="https://github.com/user-attachments/assets/9e85e3e1-8943-47be-a0af-364398d7153d" width="456px">
 
