@@ -1,10 +1,10 @@
 # Blender-Shader-Library
 A little blender shader addon with 12 shaders
-
-# Blender_Visibility_Addon
-An addon for Blender, controls the viewport and render visibility
-
 中文版可以移步这里/ Here's the instructions in Chinese:[点击这里查看中文文档](README_CN.md)
+
+***
+
+# ***This addon is written in Blender 4.1.1 and may not run in other versions, such as 2.9.1.***
 
 # How To Use
 1. Click on the file ending with .py
