@@ -19,3 +19,5 @@
 
 ![the panel](https://github.com/user-attachments/assets/434c2eda-52eb-4c97-a4bb-a22938168cdb) <img src="https://github.com/user-attachments/assets/9e85e3e1-8943-47be-a0af-364398d7153d" width="456px">
 
+# Demo on Youtube
+[![Watch on YouTube](https://img.youtube.com/vi/1eLj7udVlto/0.jpg)](https://www.youtube.com/watch?v=1eLj7udVlto)
