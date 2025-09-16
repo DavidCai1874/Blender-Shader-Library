@@ -1,4 +1,4 @@
-# Blender-Shader-Library
+# Blender-Material-Library
 A little blender shader addon with 12 shaders
 中文版可以移步这里/ Here's the instructions in Chinese:[点击这里查看中文文档](README_CN.md)
 
@@ -21,7 +21,7 @@ A little blender shader addon with 12 shaders
 4. ![4](https://github.com/user-attachments/assets/241d38c0-36d3-4a52-89a8-8041100b6877)
 5.  <img width="497" alt="5" src="https://github.com/user-attachments/assets/a4b6f92c-8929-47b9-8933-a544821eefaa">
 
-# Panel and Shaders
+# Panel and Materials
 ![the panel](https://github.com/user-attachments/assets/434c2eda-52eb-4c97-a4bb-a22938168cdb) <img src="https://github.com/user-attachments/assets/9e85e3e1-8943-47be-a0af-364398d7153d" width="456px">
 
 # Demo on Youtube
